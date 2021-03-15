@@ -1,4 +1,4 @@
-### Machine-Learning
+## Machine-Learning
 Python을 통한 Machine Learning
 #### AI(Aritificial intelligence)
 : 인간의 학습하고 생각하는 능력을 컴퓨터로 구현하는 것. 가장 포괄적인 상위 개념. 
