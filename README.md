@@ -1,13 +1,13 @@
 ## Machine-Learning
 Python을 통한 Machine Learning
 #### AI(Aritificial intelligence)
-: 인간의 학습하고 생각하는 능력을 컴퓨터로 구현하는 것. 가장 포괄적인 상위 개념. 
+: 인간 학습하고 생각하는 능력을 컴퓨터로 구현하는 것. 가장 포괄적인 상위 개념. 
 
 
 < 기계학습(ML : Machine Learning) > <br>
 
 
-: AI를 구현하는 방법의 하나. <br> :애플리케이션을 수정하지 않도 주어진 데이터를 기반으로 패턴을 학습. <br> : 학습을 바탕으로 미래값을 예측하는 기술.
+: AI를 구현하는 방법의 하나. <br> : 애플리케이션을 수정하지 않고도 주어진 데이터를 기반으로 패턴을 학습. <br> : 학습을 바탕으로 미래값을 예측하는 기술.
 
 
 - 지도학습(Supervised Learning)
@@ -36,16 +36,19 @@ Python을 통한 Machine Learning
   - 시각화(Visualization)와 차원축소(Dimensional reduction)
     - 주성분 분석(PCA : Principal component analysis)
 
-  - 강화 학습(Reinforcement learning)
+<br>
+
+- 강화 학습(Reinforcement learning)
 
 <br>
 
-  < 딥러닝(Deep Learning) >
-  : 복잡한 형태의 신경망
-  - CNN(Convolutional Neural Networks)
-  - RNN(Recurrent Neural Network)
-  - GAN(Generative Adversarial Networks)
 
+  < 딥러닝(Deep Learning) >
+  : 복잡한 형태의 신경망.
+  - CNN(Convolutional Neural Networks)
+  - RNN(Recurrent Neural Network) ex) LSTM
+  - GAN(Generative Adversarial Networks)
+  - Auto Encoder
 
 #### 학습
 
@@ -70,7 +73,7 @@ Python을 통한 Machine Learning
   - 넘파이(Numpy) -> 행렬 기반 데이터 처리에 특화.
 
 - 데이터 핸들링 패키지
-  - 판다스(Pandas) -> 2차원 데이터 처리에 특화
+  - 판다스(Pandas) -> 2차원 데이터 처리에 특화.
 
 - 시각화 패키지
   - 맷플롯립(Matplotlib)
