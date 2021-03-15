@@ -51,3 +51,32 @@ Python을 통한 Machine Learning
   - RNN(Recurrent Neural Network)
   - GAN(Generative Adversarial Networks)
 
+### 학습
+
+- 학습의 목표 : 분류, 예측, 추천 등을 위한 모델( 기준식, 수학식, 수학 모델 ) 획득.
+- 학습하기 : 적합할 것 같은 수학 모형을 설정하고 이 수학모형에 대한 Best 계수들을 찾는 것.
+
+
+### 텐서플로우(TensorFlow)
+
+- http://www.tensorflow.org/?hl=ko
+- 기계학습을 위한 오픈 소스 플랫폼.
+- 기계학습 모델을 개발하고 학습시키는데 도움이 되는 핵심.
+
+
+### 파이썬 기계학습 생태계의 주요 패키지(Package)
+
+- 기계학습 패키지
+  - 사이킷런(Scikit-learn) -> 대표적인 기계학습 패키지.
+  - 텐서플로우(TensorFlow), 케라스(Keras) -> 영상, 음성, 언어 등의 비정형 데이터 분야에서의 딥러닝에 특화.
+
+- 행렬/ 선형대수/ 통계패키지
+  - 넘파이(Numpy) -> 행렬 기반 데이터 처리에 특화.
+
+- 데이터 핸들링 패키지
+  - 판다스(Pandas) -> 2차원 데이터 처리에 특화
+
+- 시각화 패키지
+  - 맷플롯립(Matplotlib)
+  - 시본(Seaborn)
+
