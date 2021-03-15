@@ -26,10 +26,6 @@ Python을 통한 Machine Learning
       - 신경망(Neural Network)
 
 <br>
-<br>
-
-
-
 
 - 비지도 학습(Unsuperbised Learning)
   - 군집화(Clustering)
@@ -43,13 +39,13 @@ Python을 통한 Machine Learning
   - 강화 학습(Reinforcement learning)
 
 <br>
-<br>
 
   < 딥러닝(Deep Learning) >
   : 복잡한 형태의 신경망
   - CNN(Convolutional Neural Networks)
   - RNN(Recurrent Neural Network)
   - GAN(Generative Adversarial Networks)
+
 
 ### 학습
 
