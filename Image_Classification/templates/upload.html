@@ -1,0 +1,11 @@
+{% extends 'home.html' %}
+
+{% block body %}
+<div class="w3-container w3-padding-32" >
+    <h1> 이미지를 업로드해서 분석해보세요 </h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name='file'/>
+        <input class="w3-button w3-teal" type="submit" value="이미지 파일 업로드" />
+    </form>
+</div>
+{% endblock%}
